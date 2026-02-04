@@ -9,7 +9,7 @@ Full Stack Developer (MERN) focused on building practical, user-centered web app
 
 ## Table of Contents
 - [About](#about)
-- [Featured Projects](#featured-projects)
+- [🚀 Featured Projects](#featured-projects)
 - [Tech Stack](#tech-stack)
 - [Learning](#learning)
 - [Contact](#contact)
