@@ -1,7 +1,7 @@
 
 # Afaq Ahmad Ali 👋
 
-![status-badge](https://img.shields.io/badge/status-active-brightgreen) ![license-badge](https://img.shields.io/badge/license-MIT-blue)
+[![status-badge](https://img.shields.io/badge/status-active-brightgreen)] [![license-badge](https://img.shields.io/badge/license-MIT-blue)]
 
 Full Stack Developer (MERN) focused on building practical, user-centered web applications and integrating lightweight AI solutions.
 
