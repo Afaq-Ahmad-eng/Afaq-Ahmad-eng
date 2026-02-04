@@ -71,7 +71,7 @@ I build full-stack applications using React, Node.js, and MongoDB. I enjoy clean
 - Testing & automation
 
 ## Contact
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue) [Ahmad Ali](https://www.linkedin.com/in/Afaq-Ahmad-ali)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue) [Afaq Ahmad](https://www.linkedin.com/in/Afaq-Ahmad-ali)
 - Email: afaqahmad2593@gmail.com
 - ![Portfolio](https://img.shields.io/badge/Portfolio-purple) [My Portfolio](https://afaq-ahmad-eng-portfolio.vercel.app/)
 
