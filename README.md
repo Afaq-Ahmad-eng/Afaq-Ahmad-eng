@@ -7,6 +7,8 @@ Full Stack Developer (MERN) focused on building practical, user-centered web app
 
 🎓 Software engineer 
 
+![Portfolio](https://img.shields.io/badge/Portfolio-purple) [My Portfolio](https://afaq-ahmad-eng-portfolio.vercel.app/)
+
 ## Table of Contents
 - [About](#about)
 - [Featured Projects](#featured-projects)
@@ -73,7 +75,6 @@ I build full-stack applications using React, Node.js, and MongoDB. I enjoy clean
 ## Contact
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue) [Afaq Ahmad](https://www.linkedin.com/in/Afaq-Ahmad-ali)
 - Email: afaqahmad2593@gmail.com
-- ![Portfolio](https://img.shields.io/badge/Portfolio-purple) [My Portfolio](https://afaq-ahmad-eng-portfolio.vercel.app/)
 
 ## Contributing
 Contributions, issues, and feature requests are welcome. For small fixes, open a pull request; for larger changes, please open an issue first to discuss.
