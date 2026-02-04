@@ -9,7 +9,7 @@ Full Stack Developer (MERN) focused on building practical, user-centered web app
 
 ## Table of Contents
 - [About](#about)
-- [🚀 Featured Projects](#featured-projects)
+- [Featured Projects](#featured-projects)
 - [Tech Stack](#tech-stack)
 - [Learning](#learning)
 - [Contact](#contact)
@@ -19,7 +19,7 @@ Full Stack Developer (MERN) focused on building practical, user-centered web app
 ## About
 I build full-stack applications using React, Node.js, and MongoDB. I enjoy clean architecture, backend engineering, and applying simple ML/AI libraries (e.g., face-api.js) to solve real problems like focus monitoring and smart travel assistants.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **[Smart Travel Companion](https://github.com/Afaq-Ahmad-eng/Travel-Companion)** — Tourism-focused web app for KPK (routing, local content, trip planning).  
 
