@@ -1,5 +1,4 @@
-
-# Afaq Ahmad Ali 👋
+# Afaq Ahmad 👋
 
 [![status-badge](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Afaq-Ahmad-eng) [![license-badge](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
